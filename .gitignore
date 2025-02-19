@@ -4,3 +4,5 @@
 *.npy
 *.csv
 *.html
+
+.DS_Store
